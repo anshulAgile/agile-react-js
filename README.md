@@ -1,4 +1,4 @@
-A custom Agile Infoways React boilerplate built with Vite.js, TypeScript, ESLint, Prettier, Styled Components, Axios, React Query, and Redux Toolkit.
+A custom Agile Infoways React boilerplate built with Vite.js, TypeScript, Styled Components.
 
 ## Project Title
 
